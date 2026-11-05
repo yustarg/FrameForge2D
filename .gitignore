@@ -1,0 +1,19 @@
+# Build outputs
+/build/
+/out/
+/cmake-build-*/
+
+# Local IDE settings
+/.vs/
+/.idea/
+CMakeUserPresets.json
+*.user
+*.suo
+
+# Runtime captures
+/captures/
+*.utrace
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
