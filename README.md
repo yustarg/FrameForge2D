@@ -1,4 +1,4 @@
-# FrameForge
+# FrameForge2D
 
 A small C++ 2D game engine built step by step to learn how engines manage frames, memory, resources, and concurrent work.
 

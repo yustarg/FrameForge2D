@@ -1,4 +1,4 @@
-# FrameForge · 七天 C++ 引擎与并发专项
+# FrameForge2D · 七天 C++ 引擎与并发专项
 
 ## 课程目标
 
@@ -74,7 +74,7 @@ loader 线程
 
 ### 当天实现
 
-- 建立 CMake 工程，分成 frameforge_core、frameforge_demo 和无窗口验证入口。
+- 建立 CMake 工程，分成 frameforge2d_core、frameforge2d_demo 和无窗口验证入口。
 - 实现窗口、输入、固定步长、暂停、单步和有序退出。
 - 使用连续容器保存物体的位置、速度和颜色。
 - 加入一组简单父子节点，让父节点转动时子节点跟随。
@@ -287,7 +287,7 @@ loader 线程
 目录按功能逐天增加，未实现的功能不预建空类。
 
 ```text
-FrameForge/
+FrameForge2D/
   CMakeLists.txt
   README.md
   docs/course.zh-CN.md
